@@ -1,0 +1,43 @@
+<html>
+
+<head>
+
+</head>
+
+<body>
+<style type="text/css" media="screen">
+.gr_container {
+  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+  width: 250px;
+}
+.gr_book_container {
+  border-bottom: 1px solid #d7d7d7; padding: 5px 0px;
+}
+.gr_book_image {
+  float: left; padding-right: 20px;
+}
+.gr_book_title {}
+.gr_review_stats {}
+</style>
+<a style="font-size: 1.3em; color: #382110; text-decoration: none;" href="https://www.goodreads.com/author/show/21459171.Literal_Lawyer?utm_medium=api&utm_source=author_widget">Literal Lawyer's books on Goodreads</a>
+  <div id="gr_author_widget_1620621485">
+    <!-- Include static html in case javascript is not supported. This will be overridden if things are working. -->
+    <div class="gr_container">
+	
+		<div class="gr_book_container">
+			<a title="Diary Of A Dynamic Villager #1" class="gr_book_image" rel="nofollow" href="https://www.goodreads.com/book/show/57946966-diary-of-a-dynamic-villager-1?utm_medium=api&utm_source=author_widget"><img alt="Diary Of A Dynamic Villager #1" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620153532l/57946966._SY75_.jpg" /></a>
+			<a class="gr_book_title" rel="nofollow" href="https://www.goodreads.com/book/show/57946966-diary-of-a-dynamic-villager-1?utm_medium=api&utm_source=author_widget">Diary Of A Dynamic Villager #1</a>
+			<br/>
+			<div class="gr_review_stats">
+				reviews: 2
+				<br/>
+				ratings: 26 (avg rating 3.88)
+			</div>
+			<br style="clear: both"/>
+		</div>
+</div>
+  </div>
+<script type="text/javascript" charset="utf-8" src="https://www.goodreads.com/author/author_widget/21459171.Literal_Lawyer?widget_id=1620621485"></script>
+</body>
+
+</html>
